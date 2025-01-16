@@ -20,7 +20,7 @@ This project uses JWT Authentication, APIs, React, Node.js, PostgreSQL, Sequeliz
 - **Authentication**: JSON Web Tokens (JWT)
 - **Deployment**: Render
 
-## Access the Repository and Deployed Applikcation
+## Access the Deployed Application and GitHub Repository
 https://kanban-kv.onrender.com
 https://github.com/kristivent/kanban.git
 
